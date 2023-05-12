@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **I am front-end programmer currently honing his React & React Native skills:**
 
 ### About me:
-I am a fourth year Computer Science student
+I am a fourth year Computer Science student /n
 I am looking to broaden my skills 
 If you have any projects you want to collaborate with me on, let me know!
 
