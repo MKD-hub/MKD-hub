@@ -1,7 +1,7 @@
 # Hello, my name is Mohammed Khalid 👋
 
 # 💫 About Me:
-I am a fourth year Computer Science student at HiLCoE<br>I am a passionate front-end developer (both mobile & web)<br>If you've any projects you want to collaborate on, let me know!<br>You can reach me at mkdiab58@gmail.com
+I am a software engineer with three years of experience. <br>I am a passionate front-end developer (both mobile & web)<br>If you've any projects you want to collaborate on, let me know!<br>You can reach me at mkdiab58@gmail.com
 
 
 # 💻 Tech Stack:
