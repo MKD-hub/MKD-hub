@@ -4,13 +4,13 @@
 
 This year, I'm deliberately investing most of my time into:
 
--Strengthening core backend foundations (data structures, algorithms, networking)
+- Strengthening core backend foundations (data structures, algorithms, networking)
 
--Building low-level tools in Zig
+- Building low-level tools in Zig
 
--Exploring WebAssembly constraints, memory models, and error propagation
+- Exploring WebAssembly constraints, memory models, and error propagation
 
--Treating graphics as a systems problem, not just rendering
+- Treating graphics as a systems problem, not just rendering
 
 Trying to learn as much as I can!
 
