@@ -50,7 +50,7 @@ This includes ongoing practice with data structures, algorithms, and system desi
 
 I occasionally write about what I'm building and learning:
 
-- Long-form notes: Substack[https://substack.com/@moccamo]
+- Long-form notes: [Substack](https://substack.com/@moccamo)
 
 - Short-form discussions with local developers:
 
@@ -60,7 +60,7 @@ My goal is clarity and reflection.
 
 If you're interested in backend or systems-oriented engineering, or in using tools and games as a medium for learning, feel free to reach out to me on my Telegram Channel.
 
-Telegram[https://t.me/mo_tries]
+[Telegram](https://t.me/mo_tries)
 
 I care more about understanding systems deeply than moving fast — and I’m comfortable taking the long route to get there
 
