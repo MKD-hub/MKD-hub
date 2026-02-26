@@ -16,9 +16,7 @@ Trying to learn as much as I can!
 
 ## 🛠️ Selected projects
 
-**Coming soon!** This section will be expanded once I publish one of my first few tools.
-
-For now, my work is centered around tooling and primitives that can later support more complex systems.
+[Polystack](https://github.com/MKD-hub/polystack) A 3D modelling and sprite stacking app made in Zig and WASM
 
 ## Backend foundations
 
