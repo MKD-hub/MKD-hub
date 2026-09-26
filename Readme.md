@@ -65,7 +65,7 @@ I care more about understanding systems deeply than moving fast — and I’m co
 # Programming languages and frameworks I know
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#) [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#) [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#) [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#) [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#) [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#)
-[![Kotlin](httpa://img.shields.io/badge/Kotlin-3F3F3F?logo=kotlin&logoColor=fff)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-3F3F3F?logo=kotlin&logoColor=fff)](#)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MKD-hub&icon=0&color=0)](https://visitcount.itsvg.in)
